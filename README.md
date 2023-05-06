@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm Aki and I'm currently finishing my Computer Science Bachelor degree at University of Science and Technology of China 🇨🇳.
 
-<img style="padding: 0px 5px 0px 0px" align="right" alt="img" src="https://github.com/Fluuuegel/Fluuuegel/blob/master/ME.png" width="35%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Fluuuegel/Fluuuegel/blob/master/ME.png" width="35%" height="auto" />
 
 ### 🔭 I'm currently working on:  
 - Finish my Computer Science Bachelor degree
