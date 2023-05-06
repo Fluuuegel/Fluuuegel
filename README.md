@@ -57,5 +57,5 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;\
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![aseprite](https://img.shields.io/badge/-aseprite-05122A?style=flat&logo=aseprite)
+![Aseprite](https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=aseprite)
 </div>
