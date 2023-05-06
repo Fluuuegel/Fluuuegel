@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Metrics](https://metrics.lecoq.io/Fluuuegel?template=terminal&config.timezone=Asia%2FShanghai)
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Fluuuegel" /> </div>
