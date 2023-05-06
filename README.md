@@ -37,6 +37,7 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 
 ### :computer: Tech Stack
 
+<p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Fluuuegel&show_icons=true&hide_border=true" />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -55,3 +56,4 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![aseprite](https://img.shields.io/badge/-aseprite-05122A?style=flat&logo=aseprite)
+</ p>
