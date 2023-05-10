@@ -60,4 +60,4 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 ![Aseprite](https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=aseprite)
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=1e7a38&style=flat" alt="Fluuuegel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fluuuegel&label=Profile%20views&color=1e7a38&style=flat" alt="Fluuuegel" /> </p>
