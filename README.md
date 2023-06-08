@@ -40,7 +40,6 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 
 <div>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Fluuuegel&show_icons=true&hide_border=true" />
-
 \
 \
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -60,3 +59,5 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Aseprite](https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=aseprite)
 </div>
+
+<figure><embed src="https://wakatime.com/share/@c601c3ca-84cc-43af-9316-323b6beaf7a6/af4fe532-ec73-4a1d-a6e6-f8b193a4da7f.svg"></embed></figure>
