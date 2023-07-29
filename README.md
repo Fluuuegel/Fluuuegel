@@ -27,8 +27,8 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 
 ### 🔭 I'm currently working on:  
 - Finish my Computer Science Bachelor degree
-- Taking online courses of NUS summer workshop
-- A RPG game 🚀 *coming soon*
+- Find a laboratory of ai, cg or robotics to challenge myself
+- Read papers !!!
 
 
 ### :muscle: I'm challenging myself with:
@@ -40,7 +40,6 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 
 <div>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Fluuuegel&show_icons=true&hide_border=true" />
-
 \
 \
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
