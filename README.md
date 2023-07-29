@@ -28,6 +28,7 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 ### 🔭 I'm currently working on:  
 - Finish my Computer Science Bachelor degree
 - Join in a ai, cg or robotics laboratory to challenge myself
+- Study for TOEFL and IELTS exam
 
 
 ### :muscle: I'm challenging myself with:
