@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 ## I'm Aki!
 
@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:woaisufan020711@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Fluuuegel&label=Profile%20views&color=000000&style=flat)
 
-I'm Aki and I'm currently finishing my Computer Science Bachelor degree at University of Science and Technology of China 🇨🇳.
-
-<img align="right" alt="img" src="https://github.com/Fluuuegel/Fluuuegel/blob/master/ME.png" width="35%" height="auto" />
+I'm Zhang Yiyao and I'm currently finishing my Computer Science Bachelor degree at University of Science and Technology of China 🇨🇳.
 
 ### 🔭 I'm currently working on:  
-- Finish my Computer Science Bachelor degree
-- Find a laboratory of ai, cg or robotics to challenge myself
-- Read papers !!!
+
+- An online internship about basic application of ML algorithms
+- TA of Digital Circuits Experiment
+- Take a class on Embedded System Design Methods
 
 
 ### :muscle: I'm challenging myself with:
+
 - Waking up earlier to make good use of the day
-- Coding at least 2 hours a day
-- Working out 3 days a week
+- Strengthen my English ability
+- Working out 2 days a week
 
 ### :computer: Tech Stack
 
