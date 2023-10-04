@@ -26,15 +26,16 @@ I'm Aki and I'm currently finishing my Computer Science Bachelor degree at Unive
 <img align="right" alt="img" src="https://github.com/Fluuuegel/Fluuuegel/blob/master/ME.png" width="35%" height="auto" />
 
 ### 🔭 I'm currently working on:  
-- Finish my Computer Science Bachelor degree
-- Join in a ai, cg or robotics laboratory to challenge myself
-- Study for TOEFL and IELTS exam
+- An online internship about basic application of ML algorithms
+- TA of Digital Circuits Experiment
+- Take a class on Embedded System Design Methods
+- Study for GRE
 
 
 ### :muscle: I'm challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 2 hours a day
-- Working out 3 days a week
+- Strengthen my English ability
+- Working out 2 days a week
 
 ### :computer: Tech Stack
 
