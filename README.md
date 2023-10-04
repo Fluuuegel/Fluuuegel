@@ -40,6 +40,7 @@ I'm Zhang Yiyao and I'm currently finishing my Computer Science Bachelor degree 
 
 <div>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Fluuuegel&show_icons=true&hide_border=true" />
+
 \
 \
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
