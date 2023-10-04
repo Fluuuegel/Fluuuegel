@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Aki!
+## I'm Yiyao!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Fluuuegel)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:woaisufan020711@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Fluuuegel&label=Profile%20views&color=000000&style=flat)
 
-I'm Aki and I'm currently finishing my Computer Science Bachelor degree at University of Science and Technology of China 🇨🇳.
+I'm Yiyao and I'm currently finishing my Computer Science Bachelor degree at University of Science and Technology of China 🇨🇳.
 
 <img align="right" alt="img" src="https://github.com/Fluuuegel/Fluuuegel/blob/master/ME.png" width="35%" height="auto" />
 
