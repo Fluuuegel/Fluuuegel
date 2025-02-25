@@ -37,7 +37,6 @@ I am **Yiyao**, a Computer Science graduate from the **University of Science and
 
 ### :computer: Tech Stack
 
-<div>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Fluuuegel&show_icons=true&hide_border=true" />
 \
 \
@@ -57,4 +56,3 @@ I am **Yiyao**, a Computer Science graduate from the **University of Science and
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Aseprite](https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=aseprite)
-</div>
