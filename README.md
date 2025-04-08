@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Yiyao!
+## Here is Yiyao!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Fluuuegel)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:woaisufan020711@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Fluuuegel&label=Profile%20views&color=000000&style=flat)
 
-I am **Yiyao**, a Computer Science graduate from the **University of Science and Technology of China**, currently pursuing my Master's degree in Computer Science at the **KTH Royal Institute of Technology**.
-
-<img align="right" alt="img" src="https://github.com/Fluuuegel/Fluuuegel/blob/master/ME.png" width="35%" height="auto" />
+I am a Computer Science graduate from the **University of Science and Technology of China**, currently pursuing my Master's degree in Computer Science at the **KTH Royal Institute of Technology**.
 
 ### 🔭 I'm currently working on:  
 - Developing a Japanese-learning software.
@@ -32,8 +30,6 @@ I am **Yiyao**, a Computer Science graduate from the **University of Science and
 
 ### :muscle: I'm challenging myself with:
 - Waking up earlier to make the most of my day.
-- Improving my English and Japanese skills.
-- Hitting the gym 4 days a week.
 
 ### :computer: Stats
 
